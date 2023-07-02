@@ -1,7 +1,15 @@
+import MYSQL
+1. You can find the .mysql file on the repository "cws.sql"
+
+import Postman Collection
+1. You can find the collection on the repository "Bayad EXAM.postman_collection"
+
+
 Steps in install the depencies
-1. Install Flash version 2.3.2
+1. Install Flask version 2.3.2
 2. Install Flask-Cors 4.0.0
 3. Install Flask-MySQL 1.5.2
+4. Install PyMySQL 1.1.0
 
 ---
 
@@ -50,3 +58,9 @@ Body (raw) -
     "message": "Cash-out Successful!",
     "status": 200
 }
+
+
+TEST ID
+1. 1
+2. 2
+3. 3
