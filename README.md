@@ -5,7 +5,7 @@ import Postman Collection
 1. You can find the collection on the repository "Bayad EXAM.postman_collection"
 
 
-Steps in install the depencies
+Steps in install the dependencies
 1. Install Flask version 2.3.2
 2. Install Flask-Cors 4.0.0
 3. Install Flask-MySQL 1.5.2
@@ -15,6 +15,7 @@ Steps in install the depencies
 
 How to run the API
 1. Open the project
+2. Check the connection in config.py
 2. Run ControllerAPI.py
 
 
